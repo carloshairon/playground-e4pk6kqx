@@ -186,6 +186,10 @@ Por que foi necessário usar "if" no seguinte código:
 
 ==> faça também um exemplo agora com "if..else" em que o else é executado. 
 
+```swift runnable
+//Faça seu exemplo aqui
+
+```
 
 
 # Enumerations - Raw Values
