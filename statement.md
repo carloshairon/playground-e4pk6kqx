@@ -214,9 +214,9 @@ print ("Pula Linha = \(ch.rawValue) Linha") // utilize o atributo rawValue para 
 
 # Enumerations - Atribuição implícita
 
-Você pode atribuir um valor de .rawValue como no exemplo anterior e o swift tentará colocar um valor para o próximo case (elemento) se você não deicar explícito. Veja qual será p valor de venus. 
+Você pode atribuir um valor de .rawValue como no exemplo anterior e o swift tentará colocar um valor para o próximo case (elemento) se você não deixar explícito. Veja qual será o valor de venus. 
 
-==> Teste nenhum valor para mercury, o que acontece com venus ? E se o valor de mercury fosse 20 qual seri o valor de mars? Mostre o código para esses exemplos. 
+==> Teste nenhum valor para mercury, o que acontece com venus ? E se o valor de mercury fosse 20 qual seria o valor de mars? Mostre o código para esses exemplos. 
 
 ```swift runnable
 
@@ -226,7 +226,7 @@ enum Planets: Int {
 print(Planets.venus.rawValue)
 ```
 
-==>veja agora que nenhum valor foi atribuído. Você pode exlicar o que ocorre na seguinte linha: print(CompassPoint.south.rawValue.uppercased()) ? Você pode criar outro exemplo ? 
+==>Veja agora que nenhum valor foi atribuído. Você pode exlicar o que ocorre na seguinte linha: print(CompassPoint.south.rawValue.uppercased()) ? Você pode criar outro exemplo ? 
 
 ==>Você poderia interar em todos os elementos do enum com um for e imprimir o número de caracteres de cada um da strings associadas ao case? Pesquise o atributo de tamanho de string na documentação do swift.  
 
