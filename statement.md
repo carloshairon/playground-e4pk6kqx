@@ -212,9 +212,12 @@ print ("Pula Linha = \(ch.rawValue) Linha") // utilize o atributo rawValue para 
 ```
 
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EhNm7bXCN7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Enumerations - Atribuição implícita
 
-Você pode atribuir um valor de .rawValue como no exemplo anterior e o swift tentará colocar um valor para o próximo case (elemento) se você não deixar explícito. Veja qual será o valor de venus. 
+**Você** pode atribuir um valor de .rawValue como no exemplo anterior e o swift tentará colocar um valor para o próximo case (elemento) se você não deixar explícito. Veja qual será o valor de venus. 
 
 ==> Teste nenhum valor para mercury, o que acontece com venus ? E se o valor de mercury fosse 20 qual seria o valor de mars? Mostre o código para esses exemplos. 
 
