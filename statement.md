@@ -1,8 +1,5 @@
  
  # Enumerations - Intro
-
-
- <iframe width="560" height="315" src="https://www.youtube.com/embed/EhNm7bXCN7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  Um Enumeration define um tipo para um grupo de valores associados, permitindo trabalhar com eles de uma maneira type-safe (tipos seguros) dentro do seu código. Assim, você cria uma faixa de valores que podem ser usado e evita falta de padronização em seu código.
  
